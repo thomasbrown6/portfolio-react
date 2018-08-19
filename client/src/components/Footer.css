@@ -1,0 +1,47 @@
+.footer {
+    width: 77%;
+    margin: auto;
+    
+}
+
+.rowFooter {
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    padding: 15px 0;
+}
+
+.brands {
+    width: 3.8em;
+    margin: 0 15px;
+    vertical-align: baseline;
+}
+
+.jquery {
+    width: 7em;
+}
+
+.ajax {
+    width: 5em;
+}
+
+.git {
+    width: 5em;
+}
+
+.mysql {
+    width: 6em;
+}
+
+.handlebars {
+    width: 5em;
+}
+
+.sequelize {
+    width: 7em;
+}
+
+.mongodb {
+    width: 7em;
+}
