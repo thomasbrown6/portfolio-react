@@ -27,6 +27,19 @@ export const ProjectSection = () => (
                   the hurdles of juggling the many aspects of managing finances
                   we created “Get it Together”.
                 </p>
+                <ul>
+                  <li>React</li>
+                  <li>Bootstrap</li>
+                  <li>CSS3</li>
+                  <li>HTML5</li>
+                  <li>JavaScript</li>
+                  <li>Node</li>
+                  <li>Express</li>
+                  <li>MongoDB</li>
+                  <li>Mongoose ORM</li>
+                  <li>Heroku</li>
+                  <li>GitHub</li>
+                </ul>
                 <p>
                   Languages used for front-end are React, Bootstrap, CSS3, and
                   JavaScript. Languages used for back-end are Node.js,
