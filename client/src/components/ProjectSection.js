@@ -40,12 +40,7 @@ export const ProjectSection = () => (
                   <li>Heroku</li>
                   <li>GitHub</li>
                 </ul>
-                <p>
-                  Languages used for front-end are React, Bootstrap, CSS3, and
-                  JavaScript. Languages used for back-end are Node.js,
-                  Express.js, MongoDB, Mongoose ORM. Deployed to Heroku and
-                  GitHub Pages.
-                </p>
+                
               </div>
               <div class="resume-link text-md-center">
                 <a
@@ -57,6 +52,50 @@ export const ProjectSection = () => (
                 <a
                   class="card-link"
                   href="https://github.com/lhernandez5/Get_It_Together"
+                >
+                  GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+        </Col>
+        <Col size="6">
+          <div class="card resume-item d-flex flex-column flex-md-row mb-3">
+            <div class="resume-content mr-auto">
+              <h3 class="card-header text-md-center mb-0">Muscle Men Male Revue</h3>
+              <img
+                class="card-img-top"
+                alt="Muscle Men Male Revue"
+                src={require("../images/muscleMaleRevue.png")}
+              />
+              <div className="inner-body">
+                <p>
+                  I built this site for a client to promote their business. Their goal was to create
+                  a site that would have an high ranking on Google. I managed to have his site ranking within the top 2.
+
+                </p>
+                <ul>
+                  <li>React</li>
+                  <li>Next.js</li>
+                  <li>Bootstrap</li>
+                  <li>CSS3</li>
+                  <li>HTML5</li>
+                  <li>JavaScript</li>
+                  <li>Node</li>
+                  <li>GoDaddy</li>
+                </ul>
+                
+              </div>
+              <div class="resume-link text-md-center">
+                <a
+                  class="card-link"
+                  href="musclemenmalerevue.com"
+                >
+                  Webpage
+                </a>
+                <a
+                  class="card-link"
+                  href="#"
                 >
                   GitHub
                 </a>
@@ -80,11 +119,16 @@ export const ProjectSection = () => (
                   Use your geolocation or enter a new location to search for top
                   rated restaurants and events within the desired area.
                 </p>
-                <p>
-                  Languages used for front-end programming was HTML, CSS,
-                  Bootstrap, JavaScript, and jQuery. API’s used were Zomato and
-                  Ticketmaster.
-                </p>
+                <ul>
+                  <li>Bootstrap</li>
+                  <li>CSS3</li>
+                  <li>HTML5</li>
+                  <li>JavaScript</li>
+                  <li>jQuery</li>
+                  <li>API: Zomato, Ticketmaster</li>
+                  <li>GitHub</li>
+                </ul>
+                
               </div>
               <div class="resume-link text-md-center">
                 <a
@@ -103,8 +147,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      </Row>
-      <Row>
+      
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -122,13 +165,22 @@ export const ProjectSection = () => (
                   store workout data in the database which shows up in their
                   profile.
                 </p>
-                <p>
-                  Languages used for front-end programming are HTML5,
-                  Express-Handlebars, CSS3, Bootstrap, JavaScript, and jQuery.
-                  Languages used for back-end programming are Node.js, MySQL,
-                  JAWSDB, Sequelize.js, and Express.js,. Deployed to Heroku and
-                  GitHub Pages.
-                </p>
+                <ul>
+                  <li>Express-Handlebars</li>
+                  <li>Bootstrap</li>
+                  <li>CSS3</li>
+                  <li>HTML5</li>
+                  <li>JavaScript</li>
+                  <li>jQuery</li>
+                  <li>Node</li>
+                  <li>Express</li>
+                  <li>MySQL</li>
+                  <li>JAWSDB</li>
+                  <li>Sequelize</li>
+                  <li>Heroku</li>
+                  <li>GitHub</li>
+                </ul>
+                
               </div>
               <div class="resume-link text-md-center">
                 <a
@@ -185,8 +237,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      </Row>
-      <Row>
+      
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -266,8 +317,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      </Row>
-      <Row>
+      
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -353,8 +403,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      </Row>
-      <Row>
+      
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -436,8 +485,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      </Row>
-      <Row>
+      
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -526,8 +574,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      </Row>
-      <Row>
+      
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -607,8 +654,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      </Row>
-      <Row>
+      
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
