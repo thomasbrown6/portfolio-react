@@ -40,16 +40,19 @@ export const ProjectSection = () => (
                   <li>Heroku</li>
                   <li>GitHub</li>
                 </ul>
-                
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://stormy-everglades-57851.herokuapp.com/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/lhernandez5/Get_It_Together"
                 >
@@ -62,7 +65,9 @@ export const ProjectSection = () => (
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
-              <h3 class="card-header text-md-center mb-0">Muscle Men Male Revue</h3>
+              <h3 class="card-header text-md-center mb-0">
+                Muscle Men Male Revue
+              </h3>
               <img
                 class="card-img-top"
                 alt="Muscle Men Male Revue"
@@ -70,9 +75,10 @@ export const ProjectSection = () => (
               />
               <div className="inner-body">
                 <p>
-                  I built this site for a client to promote their business. Their goal was to create
-                  a site that would have an high ranking on Google. I managed to have his site ranking within the top 2.
-
+                  I built this site for a client to promote their business.
+                  Their goal was to create a site that would have an high
+                  ranking on Google. Focused on SEO, managed to have his site ranking within
+                  the top 5.
                 </p>
                 <ul>
                   <li>React</li>
@@ -84,20 +90,57 @@ export const ProjectSection = () => (
                   <li>Node</li>
                   <li>GoDaddy</li>
                 </ul>
-                
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="musclemenmalerevue.com"
                 >
                   Webpage
                 </a>
+              </div>
+            </div>
+          </div>
+        </Col>
+        <Col size="6">
+          <div class="card resume-item d-flex flex-column flex-md-row mb-3">
+            <div class="resume-content mr-auto">
+              <h3 class="card-header text-md-center mb-0">
+                Ebony Black Men Strippers
+              </h3>
+              <img
+                class="card-img-top"
+                alt="Ebony Black Men Strippers"
+                src={require("../images/EbonyBlackMenStrippers.png")}
+              />
+              <div className="inner-body">
+                <p>
+                  I built this site for a client to promote their business.
+                  Their goal was to create a site that would have an high
+                  ranking on Google. Focused on SEO, managed to have his site ranking within
+                  the top 2.
+                </p>
+                <ul>
+                  <li>React</li>
+                  <li>Next.js</li>
+                  <li>Bootstrap</li>
+                  <li>CSS3</li>
+                  <li>HTML5</li>
+                  <li>JavaScript</li>
+                  <li>Node</li>
+                  <li>GoDaddy</li>
+                </ul>
+              </div>
+              <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
-                  href="#"
+                  href="http://ebonymenblackmalestrippers.com/"
                 >
-                  GitHub
+                  Webpage
                 </a>
               </div>
             </div>
@@ -128,16 +171,19 @@ export const ProjectSection = () => (
                   <li>API: Zomato, Ticketmaster</li>
                   <li>GitHub</li>
                 </ul>
-                
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://ejohn156.github.io/ExpectationByDestination/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/ejohn156/ExpectationByDestination"
                 >
@@ -147,7 +193,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      
+
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -180,16 +226,19 @@ export const ProjectSection = () => (
                   <li>Heroku</li>
                   <li>GitHub</li>
                 </ul>
-                
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://rocky-harbor-15669.herokuapp.com/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/ejohn156/Project2"
                 >
@@ -222,12 +271,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://agile-tundra-77821.herokuapp.com/articles"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/ArticleScraperApp"
                 >
@@ -237,7 +290,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      
+
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -260,12 +313,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/ClickyGameApp/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/ClickyGame"
                 >
@@ -302,12 +359,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/TrainScheduler/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/TrainScheduler"
                 >
@@ -317,7 +378,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      
+
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -346,12 +407,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/AmazonStore/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/AmazonStore"
                 >
@@ -388,12 +453,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/GiphyAPI/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/GiphyAPI"
                 >
@@ -403,7 +472,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      
+
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -432,12 +501,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://mysterious-forest-98702.herokuapp.com/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/FriendFinder"
                 >
@@ -470,12 +543,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/unit-4-game/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/unit-4-game"
                 >
@@ -485,7 +562,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      
+
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -517,12 +594,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://blooming-spire-44184.herokuapp.com/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/Burger"
                 >
@@ -559,12 +640,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/TriviaGame/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/TriviaGame"
                 >
@@ -574,7 +659,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      
+
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -594,12 +679,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/psychicGame/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/psychicGame"
                 >
@@ -639,12 +728,16 @@ export const ProjectSection = () => (
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/LiriNodeApp/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/LiriNodeApp"
                 >
@@ -654,7 +747,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-      
+
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
@@ -667,23 +760,29 @@ export const ProjectSection = () => (
               <div className="inner-body">
                 <p>
                   This is a nba themed hangman game, the app randomly guesses a
-                  nba player's name from an array of names. The name is then displayed
-                  as dashes. The user has to guess the name by clicking on the giving
-                  letters of buttons. When a user guess is in the word, the dash is removed
-                  for that specific letter and is replaced with the correct letter. 
+                  nba player's name from an array of names. The name is then
+                  displayed as dashes. The user has to guess the name by
+                  clicking on the giving letters of buttons. When a user guess
+                  is in the word, the dash is removed for that specific letter
+                  and is replaced with the correct letter.
                 </p>
                 <p>
-                  This app dynamically updates the HTML and is powered by JavaScript.
+                  This app dynamically updates the HTML and is powered by
+                  JavaScript.
                 </p>
               </div>
               <div class="resume-link text-md-center">
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://thomasbrown6.github.io/WordGuessGame/"
                 >
                   Webpage
                 </a>
                 <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="card-link"
                   href="https://github.com/thomasbrown6/WordGuessGame"
                 >
