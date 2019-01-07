@@ -62,7 +62,7 @@ export const ProjectSection = () => (
             </div>
           </div>
         </Col>
-        <Col size="6">
+        {/* <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
               <h3 class="card-header text-md-center mb-0">
@@ -145,7 +145,7 @@ export const ProjectSection = () => (
               </div>
             </div>
           </div>
-        </Col>
+        </Col> */}
         <Col size="6">
           <div class="card resume-item d-flex flex-column flex-md-row mb-3">
             <div class="resume-content mr-auto">
